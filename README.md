@@ -17,8 +17,8 @@ DIRECTORY STRUCTURE
 
       assets/             contains assets definition
       commands/           contains console commands (controllers)
-      commons/            contains global functions and env variables
-      config/             contains application configurations
+      commons/            contains global functions and env variables
+      config/             contains application configurations
       controllers/        contains Web controller classes
       mail/               contains view files for e-mails
       models/             contains model classes
