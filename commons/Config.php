@@ -8,7 +8,6 @@ namespace app\commons;
  */
 class Config
 {
-
     const ENV_SIT = 'sit';
 
     const ENV_PRE = 'pre';
