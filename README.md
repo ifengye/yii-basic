@@ -4,10 +4,12 @@ Yii 2 Basic Project Template with business modules
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 The template contains the basic features including user login/logout and a contact page.
+
 It includes all commonly used configurations that would allow you to focus on adding new
 features to your application.
 
 This version is a Business prototype code based on Yii 2.
+
 Helping more Phper to build a business model as fast as they can.
 
 DIRECTORY STRUCTURE
