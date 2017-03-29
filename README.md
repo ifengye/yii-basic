@@ -1,5 +1,5 @@
-Yii 2 Basic Project Template with modules
-=========================================
+Yii 2 Basic Project Template with business modules
+==================================================
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
@@ -17,10 +17,12 @@ DIRECTORY STRUCTURE
 
       assets/             contains assets definition
       commands/           contains console commands (controllers)
-      config/             contains application configurations
+      commons/            contains global functions and env variables
+      config/             contains application configurations
       controllers/        contains Web controller classes
       mail/               contains view files for e-mails
       models/             contains model classes
+      modules/            contains business modules
       runtime/            contains files generated during runtime
       tests/              contains various tests for the basic application
       vendor/             contains dependent 3rd-party packages
